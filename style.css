@@ -63,7 +63,7 @@ p {
 aside {
     width: 40%;
     float: right;
-    margin-top: 2%;
+    margin: 2% 0 2%;
     height: 280px;
     padding: 15px;
     text-align: center;
@@ -71,9 +71,8 @@ aside {
 }
 
 footer {
-    margin-top: 33%;
     text-align: center;
     background: #ebebeb;
     padding: 5px;
-
+    clear: both;
 }
